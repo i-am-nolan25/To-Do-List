@@ -24,3 +24,7 @@ Clone or download the repository to your local machine and explore the codebase 
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
 - [React Hooks - useEffect](https://reactjs.org/docs/hooks-effect.html)
 - [MDN Web Docs - Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+
+### Contact
+
+If you have any questions, please feel free to reach out via my [email](nl020@bucknell.edu) or [LinkedIn](https://www.linkedin.com/in/naing-oo-lwin-nolan/).
