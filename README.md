@@ -1,10 +1,14 @@
 # React Todo List Application
 
+![image](https://github.com/i-am-nolan25/To-Do-List/assets/113712250/8c90d280-2a7d-4712-a899-3900a67f9c49)
+
 This repository contains a Todo List Application created as part of IBM's Developing Front-End Apps with React course.
 
 ### Course Information
 Title: Developing Front-End Apps with React
+
 Type: Hands-on Lab
+
 Course Provider: IBM
 
 ### Objective
